@@ -1,0 +1,15 @@
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\bin\Debug\net6.0\eSya.InterfaceSMS.IF.deps.json
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\bin\Debug\net6.0\eSya.InterfaceSMS.IF.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\bin\Debug\net6.0\eSya.InterfaceSMS.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\bin\Debug\net6.0\eSya.InterfaceSMS.DO.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\bin\Debug\net6.0\eSya.InterfaceSMS.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.csproj.AssemblyReference.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.csproj.CopyComplete
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\refint\eSya.InterfaceSMS.IF.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\ref\eSya.InterfaceSMS.IF.dll

@@ -1,0 +1,11 @@
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\bin\Debug\net6.0\eSya.InterfaceSMS.DO.deps.json
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\bin\Debug\net6.0\eSya.InterfaceSMS.DO.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\bin\Debug\net6.0\eSya.InterfaceSMS.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\refint\eSya.InterfaceSMS.DO.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\ref\eSya.InterfaceSMS.DO.dll
