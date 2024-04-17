@@ -17,3 +17,4 @@ D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DL\eSya.
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DL\eSya.InterfaceSMS.DL\obj\Debug\net6.0\ref\eSya.InterfaceSMS.DL.dll
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DL\eSya.InterfaceSMS.DL\bin\Debug\net6.0\eSya.InterfaceSMS.DL.runtimeconfig.json
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DL\eSya.InterfaceSMS.DL\obj\Debug\net6.0\eSya.InterfaceSMS.DL.genruntimeconfig.cache
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DL\eSya.InterfaceSMS.DL\obj\Debug\net6.0\eSya.InterfaceSMS.DL.sourcelink.json

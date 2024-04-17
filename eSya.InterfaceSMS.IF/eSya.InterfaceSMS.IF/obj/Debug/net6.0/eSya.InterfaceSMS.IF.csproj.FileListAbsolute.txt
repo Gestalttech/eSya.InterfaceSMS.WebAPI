@@ -13,3 +13,4 @@ D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\refint\eSya.InterfaceSMS.IF.dll
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.pdb
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\ref\eSya.InterfaceSMS.IF.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.IF\eSya.InterfaceSMS.IF\obj\Debug\net6.0\eSya.InterfaceSMS.IF.sourcelink.json

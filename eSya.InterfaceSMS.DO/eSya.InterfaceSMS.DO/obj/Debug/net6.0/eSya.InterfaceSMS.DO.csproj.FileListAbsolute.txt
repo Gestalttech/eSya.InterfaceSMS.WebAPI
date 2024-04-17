@@ -9,3 +9,4 @@ D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\refint\eSya.InterfaceSMS.DO.dll
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.pdb
 D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\ref\eSya.InterfaceSMS.DO.dll
+D:\Projects\eSyaProjects2022\eSya.InterfaceSMS.WebAPI\eSya.InterfaceSMS.DO\eSya.InterfaceSMS.DO\obj\Debug\net6.0\eSya.InterfaceSMS.DO.sourcelink.json
