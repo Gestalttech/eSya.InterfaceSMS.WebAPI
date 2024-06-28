@@ -341,7 +341,7 @@ namespace eSya.InterfaceSMS.DL.Repository
                         {
                             case 91:
 
-                                GtEcsm91 smscon = db.GtEcsm91s.Where(be => be.BusinessKey == obj.BusinessKey && be.ServiceProvider.ToUpper().Replace(" ", "") == obj.ServiceProvider.ToUpper().Replace(" ", "") && be.EffectiveFrom == obj.EffectiveFrom).FirstOrDefault();
+                                GtEcsm91 smscon = db.GtEcsm91s.Where(be => be.BusinessKey == obj.BusinessKey && be.ServiceProvider.ToUpper().Replace(" ", "") == obj.ServiceProvider.ToUpper().Replace(" ", "") && be.EffectiveFrom.Date == obj.EffectiveFrom.Date).FirstOrDefault();
                                 if (smscon == null)
                                 {
                                     return new DO_ReturnParameter() { Status = false, StatusCode = "W00118", Message = string.Format(_localizer[name: "W00118"]) };

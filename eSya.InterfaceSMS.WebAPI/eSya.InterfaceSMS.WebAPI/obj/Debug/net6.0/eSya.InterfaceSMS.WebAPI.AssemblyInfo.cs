@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eSya.InterfaceSMS.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fe0f4b4e054f25a504611b260d9c37a3f127667")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb6264809dc34eef9b8414a538f4b006e0b7a96b")]
 [assembly: System.Reflection.AssemblyProductAttribute("eSya.InterfaceSMS.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eSya.InterfaceSMS.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
