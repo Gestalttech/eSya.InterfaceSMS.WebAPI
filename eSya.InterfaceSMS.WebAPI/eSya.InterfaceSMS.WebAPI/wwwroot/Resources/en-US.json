@@ -4,7 +4,7 @@
   "W00116": "Check Effective From Date",
   "W00117": "No Schema found to Save",
   "W00118": "SMS Connect not Exist",
-  
+  "W00119": "Effective Till Date should not less than or Equal to Effective From Date",
 
   "S0001": "Saved Sucessfully",
   "S0002": "Updated Sucessfully",

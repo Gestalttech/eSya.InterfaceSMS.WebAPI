@@ -47,12 +47,17 @@ namespace eSya.InterfaceSMS.DL.Repository
             {
                 using (var db = new eSyaEnterprise())
                 {
-                    var bk = db.GtEcbslns.Where(x => x.BusinessId == BusinessId && x.ActiveStatus)
-                        .Where(w => w.ActiveStatus)
+                    var bk =db.GtEcpabls.Join
+                        (db.GtEcbslns,
+                        p=>new {p.BusinessKey},
+                        b=>new {b.BusinessKey},
+                        (p,b)=> new {p,b})
+                        .Where(x=>x.p.ParameterId==2 && x.p.ActiveStatus && x.p.ParmAction
+                        && x.b.BusinessId==BusinessId && x.b.ActiveStatus)
                         .Select(r => new DO_BusinessLocation
                         {
-                            BusinessKey = r.BusinessKey,
-                            LocationDescription = r.BusinessName + "-" + r.LocationDescription
+                            BusinessKey = r.b.BusinessKey,
+                            LocationDescription = r.b.BusinessName + "-" + r.b.LocationDescription
                         }).ToListAsync();
 
                     return await bk;
@@ -178,6 +183,11 @@ namespace eSya.InterfaceSMS.DL.Repository
                 {
                     try
                     {
+                        if ( obj.EffectiveFrom.Date >= obj.EffectiveTill.Value.Date)
+                        {
+                            return new DO_ReturnParameter() { Status = false, StatusCode = "W00119", Message = string.Format(_localizer[name: "W00119"]) };
+
+                        }
                         //var _bloc = db.GtEcbslns.Where(x => x.BusinessKey == obj.BusinessKey).FirstOrDefault();
                         int ISDCode = obj.ISDCode;
                         switch (ISDCode)
