@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eSya.InterfaceSMS.DO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb6264809dc34eef9b8414a538f4b006e0b7a96b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a97235a1a1cf0e4128796101d241e832ea3c105")]
 [assembly: System.Reflection.AssemblyProductAttribute("eSya.InterfaceSMS.DO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eSya.InterfaceSMS.DO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
